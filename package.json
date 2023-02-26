@@ -1,4 +1,11 @@
 {
+"name": "dct-json-server-api",
+"version": "1.0.0",
+"description": "Simple json database to deploy to the host of your choice",
+"main": "server.js",
+"scripts": {
+  "start": "node server.js"
+},
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
