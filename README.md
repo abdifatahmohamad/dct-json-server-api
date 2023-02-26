@@ -1,1 +1,1 @@
-#A fake JSON server api for my DCT Issue Tracker web app.
+# A fake JSON server api for my DCT Issue Tracker web app.
